@@ -1,0 +1,3 @@
+## This repo contains test scripts for plotting WPS/WRF domains with Python.
+## This capability was heavily leveraged from:
+## https://github.com/lucas-uw/WRF-tools/tree/master/WRF_input_tools
